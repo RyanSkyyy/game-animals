@@ -1,7 +1,6 @@
 # Animals
 ##  md file about assigment 002 -animal game
-This is my md file about assigment 002. My student number is 20151633 and my name is 杨孝辉. Here I will show that how to play the game:
-
+This is my md file about assigment 002.
 ### Open the game, if you press the "exit" button, you will exit.
 ![Game Animals](https://github.com/huixiaoyang/game-animals/blob/master/demo_1.gif)
 
